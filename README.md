@@ -20,3 +20,4 @@ This also contains a revamped CSS stylesheet with a more consolidated CSS select
 This began with a starter code provided by EdX Skills For Life Bootcamp.
 
 ## Deployed Application
+Link to deployed webpage: https://alexains.github.io/Module-Challenge-1/
