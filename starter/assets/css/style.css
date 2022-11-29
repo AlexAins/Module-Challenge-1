@@ -13,7 +13,6 @@ p {
 }
 
 /* Header and Navigation Bar */
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,7 +53,6 @@ a {
 }
 
 /* Banner Image */
-
 .meeting img{
     height: 800px;
     width: 100%;
@@ -64,7 +62,6 @@ a {
 }
 
 /* Main Content */
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -100,7 +97,6 @@ a {
 }
 
 /* Side bar Content */
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -129,7 +125,6 @@ a {
 }
 
 /* Footer */
-
 .footer {
     padding: 30px;
     clear: both;
